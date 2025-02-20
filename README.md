@@ -69,22 +69,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditi-patel-43452927a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-patel-43452927a/" height="30" width="40" /></a>
 </p>
 
-<!---
-## 👋 Hi, I'm Aditi!
-I'm a second-year Computer Science student at York University - Lassonde School of Engineering (Toronto, Canada). I'm passionate about software development, data analysis, and UI/UX design. I enjoy going to hackathons (even though I may be bad at it) and making projects that challenge my creativity and open my learning pathways.
-
-## 🌱 Currently Learning
-
-- Java for software development
-- Advanced-Data Visualization & Analysis Techniques
-- System Design Skills
-
-
-- 👋 Hi, I’m Aditi!
-- 🌱 I’m currently learning Java ...
-- 💟 I want to collaborate on Data Analysis and UX/UI projects ...
-- 😄 Pronouns: she/her ... 
-
 
 diti7/diti7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
