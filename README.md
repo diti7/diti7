@@ -1,13 +1,5 @@
 <h1 align="left">Hi, I'm Aditi 😊</h1>
-<p align="left">I'm a second-year 👩‍💻 <b>Computer Science</b> student at 📍 York University - Lassonde School of Engineering (Toronto, Canada). I'm passionate about <b>⚙️ software development, 📊 data analysis, and 🎨 UI/UX design</b>. I enjoy going to hackathons (even though I may be bad at it😅) and making projects that challenge my creativity and open my learning pathways.✨</p>
-
-- 🔭 I’m currently working on a [Hospital Data Analysis](https://diti7dataanalysis.streamlit.app/) project. 
-
-- 🌱 I’m currently learning **Java, Scikit-learn, PostgreSQL, MongoDB.**
-
-- 👯 I’m looking to collaborate on **Data Analytics and UX/UI projects.**
-
-- 🤝 I’m looking for help with **Java for software development.**
+<p align="left">I'm a third-year 👩‍💻 <b>Computer Science</b> student at 📍 York University - Lassonde School of Engineering (Toronto, Canada). I'm passionate about <b>⚙️ software development, 📊 data analysis, and 🎨 UI/UX design</b>.</p>
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
